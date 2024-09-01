@@ -1,5 +1,3 @@
-# Data-Analysis-Projects
-
 # Grocery Store Analysis
 
 Description:
