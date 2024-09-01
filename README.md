@@ -7,4 +7,5 @@ This project shows Grocery Store insights by analyzing the dataset. Using Python
 
 Technologies:
 Python (Data analysis and visualization) Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
+
 [Tableau](https://public.tableau.com/app/profile/andrii.sydorenko4749/viz/Book1_17228039856140/GroseryStoreDashboard?publish=yes)  - Dashboard
