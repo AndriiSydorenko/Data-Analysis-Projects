@@ -1,4 +1,4 @@
-# Grocery Store Analysis
+## Grocery Store Analysis
 
 # Description:
 This project shows Grocery Store insights by analyzing the dataset. Using Python libraries and guided by data science principles, we'll uncover valuable insights into customer behavior, product performance, and sales trends. This exploration will aid in understanding market dynamics and potentially inform strategic business decisions.
