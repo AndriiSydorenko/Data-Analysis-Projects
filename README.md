@@ -17,3 +17,11 @@ This project demonstrates the impact of various weather conditions on the number
 
 ## Technologies:
 Python (Data analysis and visualization): Libraries: Pandas (Data manipulation), Seaborn (Data visualization)
+
+
+# Pandas + SQL exploratory analysis
+## Description:
+In this project, exploratory analysis was conducted to uncover insights from the dataset, demonstrating the effective integration of SQL and Python for data analysis. 
+
+## Technologies:
+Python (Data analysis and visualization): Libraries: Pandas (Data manipulation),Matplotlib (Data visualization), SQL
